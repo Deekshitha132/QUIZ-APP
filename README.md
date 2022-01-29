@@ -1,2 +1,2 @@
-# QUIZ-APP-
+# QUIZ-APP
 DLithe Internship
